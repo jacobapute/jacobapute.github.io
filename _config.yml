@@ -1,0 +1,40 @@
+title: "Jacob Apute – DevOps Engineer"
+subtitle: "Infrastructure Automation • Terraform • CI/CD"
+description: "Experienced DevOps Engineer specializing in cloud infrastructure automation, CI/CD pipelines, and scalable deployment workflows on AWS, Azure, and community platforms."
+
+url: "https://apute.online"
+baseurl: ""
+locale: "en-US"
+repository: "jacobapute/jacobapute.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Jacob Apute"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Automating infrastructure and deployment for mission-critical apps."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/jacob-ochuko"
+
+logo: "/assets/images/apute-logo.png"
+masthead_title: ""
+enable_copy_code_button: true
+search: true
+
+include:
+  - "_pages"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
