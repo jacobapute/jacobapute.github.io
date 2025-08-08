@@ -4,12 +4,12 @@ title: "Home"
 author_profile: true
 ---
 
-## 👋 Hi, I’m Jacob Apute  
-I’m a DevOps Engineer passionate about automating infrastructure and deployment for mission-critical applications.
+##  Hi, I’m Jacob Apute  
+I’m a DevOps Engineer experienced and specialized in cloud infrastructure automation, CI/CD pipelines, and scalable deployment workflows on AWS, Azure, and community platforms. Passionate about automating infrastructure and deployment for mission-critical applications.
 
 ---
 
-## 🚀 Projects
+## Projects Done
 
 ### **Project 1: Banking Application**
 This project demonstrates the complete infrastructure setup and deployment of a scalable Bank Application using a three-tier architecture on AWS.  
@@ -34,4 +34,4 @@ This project details the creation of a scalable and secure cloud infrastructure 
 
 ## 📫 Contact
 - LinkedIn: [Jacob Apute](https://www.linkedin.com/in/jacob-ochuko)
-- Email: **youremail@example.com**
+- Email: **aputejacobochuko@.com**
