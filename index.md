@@ -4,8 +4,39 @@ title: "Home"
 author_profile: true
 ---
 
-##  Hi, I’m Jacob Apute  
-I’m a DevOps Engineer experienced and specialized in cloud infrastructure automation, CI/CD pipelines, and scalable deployment workflows on AWS, Azure, and community platforms. Passionate about automating infrastructure and deployment for mission-critical applications.
+## About Me
+
+I’m Jacob Apute, a DevOps Engineer who helps businesses scale smarter by blending hands-on **Cloud**, **DevOps**, and **Cybersecurity** expertise with a structured, automation-first approach.
+
+I specialize in designing and managing **secure, scalable infrastructure** while streamlining deployment workflows for faster, more reliable delivery. From provisioning AWS environments with Terraform to implementing hardened base images following **STIG** guidelines, I ensure systems are **resilient, compliant, and secure**.
+
+Beyond building pipelines and automating infrastructure, I’m driven by solving operational bottlenecks, implementing resilient cloud solutions, and making technology work seamlessly for teams and businesses.
+
+---
+
+## Skill-set
+
+**Cloud & DevOps Engineering**
+- AWS Infrastructure design & provisioning with Terraform (IAC)
+- CI/CD pipeline setup with GitHub Actions & ArgoCD
+- Docker containerization & Kubernetes basics (EKS)
+- Monitoring with CloudWatch, Datadog, Grafana, and Prometheus
+
+**Cybersecurity & Compliance**
+- Hardening of base images using **STIG** standards
+- Secure configuration and patch management in cloud environments
+- Identity & Access Management (IAM) best practices
+- Security monitoring and incident response readiness
+
+**Linux System Administration**
+- Server maintenance & optimization
+- Shell scripting for automation
+- Security hardening & backup strategies
+
+**Technical & Virtual Support**
+- Workflow automation & operations management
+- Research, documentation, and content strategy
+- Cross-team communication and process improvement
 
 ---
 
@@ -32,6 +63,21 @@ This project details the creation of a scalable and secure cloud infrastructure 
 
 ---
 
-## 📫 Contact
+## 🔐 Cybersecurity in the Cloud (with Hardening of Base Image using STIG)
+
+Security is not an afterthought — it’s embedded in every stage of my work.  
+I leverage **Security Technical Implementation Guide (STIG)** standards to harden base images before deployment, ensuring all systems meet strict compliance and security benchmarks.
+
+Key practices include:
+- Applying STIG-compliant configurations to operating system images.
+- Enforcing least-privilege access through AWS IAM best practices.
+- Implementing automated vulnerability scanning and patch management.
+- Monitoring security metrics with CloudWatch, Datadog, and GuardDuty.
+
+This proactive approach reduces vulnerabilities and strengthens cloud workloads against evolving threats.
+
+---
+
+## ✉️ Contact
 - LinkedIn: [Jacob Apute](https://www.linkedin.com/in/jacob-ochuko)
 - Email: **aputejacobochuko@.com**
